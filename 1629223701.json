@@ -1,0 +1,1 @@
+{"title":"Remap 4","rules":[{"description":"Remap 4","manipulators":[{"type":"basic","from":{"key_code":"f2"},"to":[{"repeat":true,"key_code":"g","modifiers":["left_gui","left_shift"]}]},{"type":"basic","from":{}}]}]}
