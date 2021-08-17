@@ -1,0 +1,1 @@
+{"title":"Remap Go To Path","rules":[{"description":"Remap Go to Path","manipulators":[{"type":"basic","from":{"key_code":"f1"},"to":[{"repeat":true,"key_code":"g","modifiers":["left_gui","left_shift"]},{"repeat":true,"key_code":"v","modifiers":["left_gui"]}]},{"type":"basic","from":{}}]}]}
